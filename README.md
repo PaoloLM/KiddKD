@@ -1,4 +1,4 @@
-### Hi there 👋  I'm David Ramirez(@DefaultioX)
+<img src="https://github.com/DefaultioX/svg.svg/blob/master/svg.svg"/>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
