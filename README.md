@@ -16,6 +16,8 @@
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xm2n2ormqoxaxgex7fgw6pdzt&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 <!--
 **DefaultioX/DefaultioX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
