@@ -1,4 +1,4 @@
-<img src="https://https://github.com/DefaultioX/monark.jpg/blob/master/monark.jpg.jpg"/>
+<img src="https://github.com/DefaultioX/monark.jpg/blob/master/monark.jpg.jpg"/>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
