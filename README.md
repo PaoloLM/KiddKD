@@ -1,10 +1,8 @@
-<img src="https://github.com/KiddKD/monark.jpg/blob/master/monark.jpg.jpg"/>
-
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{DefaultioX}/count.svg" alt="KiddKD:: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{KiddKD}/count.svg" alt="KiddKD:: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
@@ -12,7 +10,7 @@
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=DefaultioX&show_icons=true&theme=synthwave" alt="DefaultioX :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=KiddKD&show_icons=true&theme=synthwave" alt="KiddKD :: Profile Stats" /></p>
 
 ## My listening 🎧...
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xm2n2ormqoxaxgex7fgw6pdzt&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
